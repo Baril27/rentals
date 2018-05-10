@@ -1,0 +1,7 @@
+## Rentals
+
+Rentals
+
+#### License
+
+MIT

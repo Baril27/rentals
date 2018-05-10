@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include rentals *.css
+recursive-include rentals *.csv
+recursive-include rentals *.html
+recursive-include rentals *.ico
+recursive-include rentals *.js
+recursive-include rentals *.json
+recursive-include rentals *.md
+recursive-include rentals *.png
+recursive-include rentals *.py
+recursive-include rentals *.svg
+recursive-include rentals *.txt
+recursive-exclude rentals *.pyc
