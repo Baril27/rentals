@@ -6,7 +6,7 @@ def get_data():
 	return [
 		{
 			"module_name": "Rentals",
-			"color": "grey",
+			"color": "red",
 			"icon": "octicon octicon-file-directory",
 			"type": "module",
 			"label": _("Rentals")
