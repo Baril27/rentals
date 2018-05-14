@@ -18,6 +18,7 @@ frappe.ui.form.on('Contract', {
         frm: frm
       })
     }, __("Make"));
+
     frm.page.set_inner_btn_group_as_primary(__("Make"));
   }
 });
